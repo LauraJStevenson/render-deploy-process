@@ -1,4 +1,4 @@
 FROM azul/zulu-openjdk:17-latest
 VOLUME /tmp
 COPY build/libs/*.jar render-deploy-process.jar
-ENTRYPOINT ["java","-jar","/render-deploy-process.jar"]
+ENTRYPOINT ["java","-jar","/app.jar"]
