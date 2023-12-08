@@ -13,7 +13,8 @@ public class RestControllerCountry {
     private static final List<Country> COUNTRIES = List.of(
             new Country("United States of America", "Washington D.C.", 339_996_563),
             new Country("China", "Beijing", 1_411_750_000),
-            new Country("India", "New Delhi", 1_428_627_663)
+            new Country("India", "New Delhi", 1_428_627_663),
+            new Country("United Kingdom", "London", 8_982_000)
     );
 
     @GetMapping
