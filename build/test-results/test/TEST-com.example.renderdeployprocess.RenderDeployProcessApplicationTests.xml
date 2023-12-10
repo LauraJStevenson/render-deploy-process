@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.renderdeployprocess.RenderDeployProcessApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-09T04:17:41" hostname="DESKTOP-JS4CGAT" time="0.929">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.renderdeployprocess.RenderDeployProcessApplicationTests" time="0.929"/>
+  <system-out><![CDATA[21:17:39.106 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.renderdeployprocess.RenderDeployProcessApplicationTests]: RenderDeployProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+21:17:39.247 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.renderdeployprocess.RenderDeployProcess for test class com.example.renderdeployprocess.RenderDeployProcessApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2023-12-08T21:17:39.742-07:00  INFO 27116 --- [    Test worker] .e.r.RenderDeployProcessApplicationTests : Starting RenderDeployProcessApplicationTests using Java 17.0.9 with PID 27116 (started by Laura in C:\Users\Laura\Documents\Laura Stevenson Portfolio\RenderDeployProcess)
+2023-12-08T21:17:39.744-07:00  INFO 27116 --- [    Test worker] .e.r.RenderDeployProcessApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-12-08T21:17:41.238-07:00  INFO 27116 --- [    Test worker] .e.r.RenderDeployProcessApplicationTests : Started RenderDeployProcessApplicationTests in 1.774 seconds (process running for 3.119)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
